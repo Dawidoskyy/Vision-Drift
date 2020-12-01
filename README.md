@@ -3,12 +3,3 @@
 
 Gamemode based on Vision Drift created by Tazmaniax
 Edited by Dawidoskyy#0329
-Added:
--Anty Weapon Hack
--Onede Arena
--Minigun Arena
--New Textdraws
--Drift Count
--Ban/Kick in Textdraws
--/Hay minigame
--New objects
